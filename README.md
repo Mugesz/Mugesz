@@ -1,4 +1,4 @@
-<Img src="https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" >
+<Img src="https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" height="500px" >
 <h1 align="center">Hi 👋, I'm Mugesh Kanna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
