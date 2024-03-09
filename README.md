@@ -1,4 +1,4 @@
-<Img src="https://media.licdn.com/dms/image/D4D12AQF0KeKX2DEBWQ/article-cover_image-shrink_600_2000/0/1689166016117?e=2147483647&v=beta&t=ntoxt-LeePIMPNmyfszw7ecxm8KzpFq9Rns--HDzIHQ" >
+<Img src="https://nimapinfotech.com/wp-content/uploads/2023/03/mern-stack-1.png" >
 <h1 align="center">Hi 👋, I'm Mugesh Kanna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
