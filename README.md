@@ -1,6 +1,6 @@
 <Img src="https://nimapinfotech.com/wp-content/uploads/2023/03/mern-stack-1.png" >
 <h1 align="center">Hi 👋, I'm Mugesh Kanna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://main--clinquant-snickerdoodle-9f9f27.netlify.app/](https://main--clinquant-snickerdoodle-9f9f27.netlify.app/)
 
